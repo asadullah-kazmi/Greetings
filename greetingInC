@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
     printf("How are you");
+    printf("I'm Good");
     return 0;
 }
